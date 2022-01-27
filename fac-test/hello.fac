@@ -1,0 +1,7 @@
+| gcc hello.c -o hello
+
+| mkdir foo
+
+| mv hello foo
+< hello
+< foo
